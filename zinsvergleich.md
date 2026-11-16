@@ -1,5 +1,44 @@
 # Zinsvergleich DE/NL — reguläre Zinsen (ohne Aktionszins)
 
+## Stand: 16.11.2026 (KW47)
+
+Reguläre, unbefristete Zinsen auf frei verfügbares Tagesgeld (DE) bzw. Spaargeld (NL) — gilt auch für Bestandskunden, keine befristeten Neukunden-Lockzinsen. Werte wurden anhand aktueller Vergleichsportale und Bank-Pressemeldungen recherchiert; bei widersprüchlichen oder älteren Quellenangaben ist dies in der Anmerkung vermerkt.
+
+### Deutschland (Tagesgeld)
+
+| Anbieter | Land | Zins | Anmerkung |
+|---|---|---|---|
+| Ferratum Bank (Multitude Bank, Malta) | DE | 3,60 % p.a. | Laut Biallo (Stand 13.10.2026) einheitlicher Basiszins ohne Unterscheidung Neu-/Bestandskunden; Einlagensicherung über Malta, nicht die deutsche Entschädigungseinrichtung — Wert seit KW46 unverändert |
+| Trading212 (Geldmarktfonds, kein klassisches Tagesgeldkonto) | DE | 2,80 % p.a. | Dauerhafter variabler Satz ab 01.11.2026, nachdem die befristete Neukundenaktion (3,50–4,20 %, bis 02.11.2026) ausgelaufen ist; rechtlich eine Geldmarktfonds-Anlage, kein Einlagenkonto mit klassischer Einlagensicherung |
+| Ascory Bank | DE | 2,50 % p.a. | Bestandskundenzins, laut mehreren Quellen (Stand Juli–Sept. 2026) der höchste Dauerzins unter deutscher Einlagensicherung; einzelne Portale nennen abweichend 2,20–2,75 % — vor Abschluss aktuellen Stand direkt bei der Bank prüfen |
+| Scalable Capital | DE | 2,50 % p.a. | Dauerzins laut neuester Quelle (Stand 31.08.2026) nur im kostenpflichtigen PRIME+-Abo (4,99 €/Monat) erhältlich; widerspricht der Annahme aus KW45/46 (2,60 % unabhängig vom Abo) — Konditionen haben sich offenbar geändert, vor Abschluss prüfen |
+| Ayvens Bank | DE | 2,30 % p.a. | Laut Finanztip einer der Anbieter mit dauerhaft guten Zinsen in den vergangenen 12 Monaten |
+
+### Niederlande (Spaarrekening)
+
+| Anbieter | Land | Zins | Anmerkung |
+|---|---|---|---|
+| Nordax Bank (via Raisin) | NL | 2,45 % p.j. | Reguläre, jederzeit frei verfügbare Spaarrekening; seit 02.11.2026 von 2,39 % auf 2,45 % erhöht; laut Raisin inzwischen 5 Partnerbanken auf diesem Niveau (Stand 09.11.2026), kein Aktionszins (separates 3,30 %-Angebot für Neukunden ist 3 Monate befristet und hier nicht berücksichtigt) |
+| Santander Consumer Bank | NL | 2,00 % p.j. | Basisintrest laut offiziellem Tarifblatt (Stand 05.06.2026, seither nicht neu verifiziert) |
+| NIBC Direct | NL | ≈ 2,00 % p.j. | Dauerzins laut Vergleichsportal (Stand 28.06.2026) — ältere Quelle, vor Abschluss prüfen |
+| Knab | NL | ≈ 2,00 % p.j. | Dauerzins laut Vergleichsportal (Stand 28.06.2026) — ältere Quelle, vor Abschluss prüfen |
+| bunq Easy Savings | NL | ≈ 1,51 % p.j. | Reguläre (Nicht-Aktions-)Rente laut Keuze.nl, ohne genaues Datum; deutlich niedriger als in Vorwochen angenommen (dort 2,01 %) — aktuelle befristete Aktionsrente (3,11 % bis 01.01.2027) ist hier nicht berücksichtigt; Datenlage uneinheitlich, vor Abschluss unbedingt direkt bei bunq prüfen |
+
+**Quellen (KW47):**
+- [Biallo – Ferratum Tagesgeld 3,60 % Basiszins](https://www.biallo.de/tagesgeld/news/ferratum-tagesgeld-3-60-prozent-basiszins/)
+- [Biallo – Neobroker-Zinsen September 2026 (Trading212)](https://www.biallo.de/geldanlage/news/neobroker-zinsen-september-2026/)
+- [Biallo – Ascory Bank Tagesgeld](https://www.biallo.de/tagesgeld/test/ascory-bank-tagesgeld/)
+- [northern.finance – Scalable Capital Zinsen](https://northern.finance/erfahrungsbericht/scalable-capital-zinsen/)
+- [Finanztip – Tagesgeld-Vergleich](https://www.finanztip.de/tagesgeld/tagesgeld-zinsen/)
+- [Raisin – Spaarrente verhoging 2 november 2026](https://www.raisin.com/nl-nl/nieuws/spaarrente-verhoging-2-november-2026/)
+- [Raisin – 2,45 % spaarrente bij 5 banken](https://www.raisin.com/nl-nl/nieuws/2-45-procent-spaarrente-bij-5-banken/)
+- [ActueleRentestanden.nl – Hoogste spaarrente](https://www.actuelerentestanden.nl/sparen/hoogste-spaarrente.asp)
+- [Keuze.nl – Hoogste spaarrente Nederland](https://www.keuze.nl/spaarrente-vergelijken/hoogste-spaarrente-nederland)
+
+_Hinweis: Die Recherche-Umgebung konnte diese Woche keine der genannten Anbieter-Websites oder Vergleichsportale direkt per Fetch aufrufen (Netzwerkbeschränkung); alle Angaben stammen aus Websuche-Zusammenfassungen mit teils unterschiedlichen Stichtagen (Juni bis November 2026) und teils widersprüchlichen Werten (insbesondere Scalable Capital, Ascory Bank, bunq). Vor einer Anlageentscheidung die aktuellen Konditionen direkt beim Anbieter prüfen._
+
+---
+
 ## Stand: 09.11.2026 (KW46)
 
 Reguläre, unbefristete Zinsen auf frei verfügbares Tagesgeld (DE) bzw. Spaargeld (NL) — gilt auch für Bestandskunden, keine befristeten Neukunden-Lockzinsen. Werte wurden anhand aktueller Vergleichsportale und Bank-Pressemeldungen recherchiert; bei widersprüchlichen oder älteren Quellenangaben ist dies in der Anmerkung vermerkt.
