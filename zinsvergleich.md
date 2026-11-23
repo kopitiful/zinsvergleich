@@ -1,5 +1,46 @@
 # Zinsvergleich DE/NL — reguläre Zinsen (ohne Aktionszins)
 
+## Stand: 23.11.2026 (KW48)
+
+Reguläre, unbefristete Zinsen auf frei verfügbares Tagesgeld (DE) bzw. Spaargeld (NL) — gilt auch für Bestandskunden, keine befristeten Neukunden-Lockzinsen. Werte wurden anhand aktueller Vergleichsportale und Bank-Pressemeldungen recherchiert; bei widersprüchlichen oder älteren Quellenangaben ist dies in der Anmerkung vermerkt.
+
+### Deutschland (Tagesgeld)
+
+| Anbieter | Land | Zins | Anmerkung |
+|---|---|---|---|
+| Ferratum Bank (Multitude Bank, Malta) | DE | 3,60 % p.a. | Einheitlicher Basiszins ohne Unterscheidung Neu-/Bestandskunden laut Biallo (zuletzt bestätigt 13.10.2026), seit KW46 unverändert; Einlagensicherung über Malta, nicht die deutsche Entschädigungseinrichtung |
+| Trading212 (Geldmarktfonds, kein klassisches Tagesgeldkonto) | DE | 2,80 % p.a. | Dauerhafter variabler Satz seit 01.11.2026 nach Auslaufen der befristeten Neukundenaktion; rechtlich eine Geldmarktfonds-Anlage, kein Einlagenkonto mit klassischer Einlagensicherung |
+| Scalable Capital | DE | 2,60 % p.a. | Laut broker-test.at (Stand 09.11.2026) und cash-online wieder 2,60 % variabel, unbegrenzter Betrag, **ohne** PRIME+-Pflicht; widerspricht der KW45/47-Annahme (PRIME+ nötig bzw. nur 2,50 %) — Konditionen scheinen zwischen 2,50 % und 2,60 % zu schwanken, vor Abschluss aktuellen Stand prüfen |
+| Ascory Bank | DE | 2,00–2,75 % p.a. | Uneinheitliche Quellenlage: Biallo-Vergleichsrechner (Stand 01.10.2026) nennt 2,75 % für 10.000 €, Verivox (Stand 01.07.2026) 2,50 % als regulären Nominalzins nach Aktionsende, Modern-Banking (seit 01.04.2026) 2,00 % für 2.500–100.000 €; konservativ eher am unteren Ende ansetzen und vor Abschluss direkt bei der Bank verifizieren |
+| Ayvens Bank | DE | 2,30 % p.a. | Laut Finanztip/Biallo einer der Anbieter mit dauerhaft guten Zinsen; Tabellenwert aus April 2026, diese Woche keine neuere Bestätigung gefunden |
+
+### Niederlande (Spaarrekening)
+
+| Anbieter | Land | Zins | Anmerkung |
+|---|---|---|---|
+| Nordax Bank (via Raisin) | NL | 2,45 % p.j. | Reguläre, jederzeit frei verfügbare Spaarrekening, kein Aktionszins; laut Raisin (Stand 13.11.2026) inzwischen 5 Partnerbanken auf diesem Niveau (Nordax, Renault Bank, Avarda Bank, Resurs Bank, Distingo Bank) — weiterhin höchster variabler Dauerzins auf der Plattform |
+| Santander Consumer Bank | NL | 2,00 % p.j. | Basisintrest laut offiziellem Tarifblatt (Stand 05.06.2026, seither nicht neu verifiziert) |
+| NIBC Direct | NL | ≈ 2,00 % p.j. | Dauerzins laut Vergleichsportal (Stand 28.06.2026) — ältere Quelle, vor Abschluss prüfen |
+| Knab | NL | ≈ 2,00 % p.j. | Dauerzins laut Vergleichsportal (Stand 28.06.2026) — ältere Quelle, vor Abschluss prüfen |
+| bunq Easy Savings | NL | 1,51 % p.j. | Reguläre Basisrente ohne Aktion, laut Dutchreview/actuelerentestanden bestätigt: nach Ablauf der zeitlich befristeten Bonusrente (aktuell 3,01–3,11 % laut geld.nl, Stand November 2026) fällt der Zins auf diesen Dauerwert zurück — Bonusrente hier bewusst nicht berücksichtigt |
+
+**Quellen (KW48):**
+- [Biallo – Ferratum Tagesgeld 3,60 % Basiszins](https://www.biallo.de/tagesgeld/news/ferratum-tagesgeld-3-60-prozent-basiszins/)
+- [broker-test.at – Scalable Capital Tagesgeld](https://www.broker-test.at/?p=37847)
+- [cash-online – Scalable Capital Tagesgeld: Zins steigt auf 2,60 Prozent](https://www.cash-online.de/a/scalable-capital-tagesgeld-zins-steigt-auf-260-prozent-725088/)
+- [Biallo – Ascory Bank Tagesgeld](https://www.biallo.de/tagesgeld/test/ascory-bank-tagesgeld/)
+- [Verivox – Tagesgeld](https://www.verivox.de/tagesgeld/)
+- [Biallo – Tagesgeld mit dauerhaft hohen Zinsen](https://www.biallo.de/geldanlage/news/tagesgeld-mit-dauerhaft-hohen-zinsen-diese-anbieter-lohnen-sich-wirklich/)
+- [Raisin – Rentenieuws week 46](https://www.raisin.com/nl-nl/nieuws/rentenieuws-week-46-spaarrentes-hypotheekrentes/)
+- [Raisin – 2,45 % spaarrente bij 5 banken](https://www.raisin.com/nl-nl/nieuws/2-45-procent-spaarrente-bij-5-banken/)
+- [Geld.nl – Top 5 hoogste spaarrentes november 2026](https://www.geld.nl/sparen/expert/nieuws/de-top-5-hoogste-spaarrentes-november-2026)
+- [Dutchreview – bunq raises bonus interest](https://dutchreview.com/financial/bunq-raises-bonus-interest-3-01-percent-on-dutch-savings/)
+- [actuelerentestanden.nl – bunq rente berekenen](https://www.actuelerentestanden.nl/?p=127357)
+
+_Hinweis: Mehrere Angebote (insbesondere Scalable Capital, Ascory Bank) zeigen weiterhin widersprüchliche oder uneinheitliche Datenlagen zwischen Vergleichsportalen. Vor einer Anlageentscheidung die aktuellen Konditionen direkt beim Anbieter prüfen._
+
+---
+
 ## Stand: 16.11.2026 (KW47)
 
 Reguläre, unbefristete Zinsen auf frei verfügbares Tagesgeld (DE) bzw. Spaargeld (NL) — gilt auch für Bestandskunden, keine befristeten Neukunden-Lockzinsen. Werte wurden anhand aktueller Vergleichsportale und Bank-Pressemeldungen recherchiert; bei widersprüchlichen oder älteren Quellenangaben ist dies in der Anmerkung vermerkt.
